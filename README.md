@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<!-- repo for *github-readme-stats* -->
+<div align="center">
+  <br/> <!-- just for a little breathing room -->
+  <img src="https://github-readme-stats.vercel.app/api?username=markkhoo-eplan&count_private=true&show_icons=true&layout=compact&bg_color=30,A30111,003F5A&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF&icon_color=F6D1AF" width="450em" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkhoo-eplan&count_private=true&layout=compact&bg_color=30,A30111,003F5A&text_color=F6D1AF&title_color=F6D1AF&border_color=F6D1AF" width="450em" />
+</div>
+
 <!--
 **markkhoo-eplan/markkhoo-eplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
